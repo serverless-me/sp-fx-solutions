@@ -1,0 +1,8 @@
+{
+  "ambientDependencies": {
+    "chart": "registry:dt/chart#0.0.0+20160316155526"
+  },
+  "ambientDevDependencies": {
+    "chart": "registry:dt/chart#0.0.0+20160316155526"
+  }
+}

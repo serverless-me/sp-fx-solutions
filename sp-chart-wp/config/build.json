@@ -1,0 +1,6 @@
+{
+  "paths": {
+  },
+  "isLintingEnabled": false,
+  "lintConfig": "tslint.json"
+}

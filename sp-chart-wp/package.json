@@ -1,0 +1,18 @@
+{
+  "name": "sp-chart-webpart",
+  "version": "0.0.2",
+  "private": true,
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "dependencies": {
+    "@ms/sp-client-platform": "0.0.27",
+    "chart.js": "^2.0.2",
+    "load-styles": "^2.0.0"
+  },
+  "devDependencies": {
+    "@ms/ms-core-build": "0.3.36",
+    "@ms/npmx": "0.3.5",
+    "gulp": "^3.9.0"
+  }
+}

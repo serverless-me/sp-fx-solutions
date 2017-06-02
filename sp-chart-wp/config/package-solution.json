@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "Fisherman248-sp-chart-webpart-client-side-solution",
+    "id": "17dd76c5-ee08-4745-a199-831622e657bb",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "Fisherman248-sp-chart-webpart.spapp"
+  }
+}

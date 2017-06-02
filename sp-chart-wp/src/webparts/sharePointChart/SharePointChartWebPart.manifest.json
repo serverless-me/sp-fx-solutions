@@ -1,0 +1,20 @@
+{
+  "manifestVersion": "1",
+  "componentType": "WebPart",
+  "id": "5bb85a4a-ebdc-4d2d-9efc-168d8ccf2ae4",
+  "displayName": "Fisherman248SharePointChart",
+  "description": "SharePoint List Data Chart",
+  "iconFontName": "smiley",
+  "version": "0.0.1",
+  "bootstrapModule": "http://localhost:4321/dist/share-point-chart.bundle.js",
+  "moduleName": "SharePointChartWebPart",
+  "localizedScripts": [],
+    "properties": {
+    "description": "",
+    "charttype": "",
+    "datasource": "",
+    "labelcolumn": "",
+    "datacolumn": "",
+    "color": ""
+    }
+}

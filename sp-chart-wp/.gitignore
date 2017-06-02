@@ -1,0 +1,9 @@
+node_modules
+dist
+lib
+coverage
+.DS_Store
+npm*.log
+/.vs/slnx.sqlite
+/.vs/slnx.sqlite-journal
+/.vs

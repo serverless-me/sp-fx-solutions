@@ -1,0 +1,13 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/webparts/sharePointChart/SharePointChartWebPart.js",
+      "outputPath": "./dist/share-point-chart.bundle.js",
+      "exclude": [
+        "@ms/sp-client-platform"
+      ],
+      "isStandalone": true,
+      "useWebpack": true
+    }
+  ]
+}
